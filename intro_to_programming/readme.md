@@ -1,1 +1,1 @@
-# my homeworks in university course `intro to programming`
+# my homeworks in the course `intro to programming`
